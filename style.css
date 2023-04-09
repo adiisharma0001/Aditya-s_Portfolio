@@ -135,9 +135,9 @@ img {
 
 @media(max-width:768px){
     .l-header {
-        position: relative;
+        position: fixed;
         display: flex;
-        top: -30px;
+        top: 0px;
     }
 }
 
